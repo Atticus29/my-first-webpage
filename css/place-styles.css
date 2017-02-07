@@ -1,0 +1,12 @@
+body{
+  font-family: monospace;
+  cursor: crosshair;
+  font-weight: lighter;
+  background-image: url("../img/tahiti.jpeg");
+  width: 500px;
+  height: 500px;
+}
+
+h1{
+  font-size: 2px;
+}
